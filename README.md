@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Giri</h1>
 <div id="header" align="center" class="container">
-    <img src="https://github.com/romithgiri/romithgiri/blob/main/assets/header.jpg" style="width: 100%;" />
+    <img src="https://github.com/romithgiri/romithgiri/blob/main/assets/header.png" style="width: 100%;" />
 </div>
 
 <h3 align="left">Stats</h3>
